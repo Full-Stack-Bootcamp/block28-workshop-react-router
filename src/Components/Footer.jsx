@@ -8,7 +8,7 @@ export default function Footer() {
         <Link to="/red">Red</Link>
         <Link to="/blue">Blue</Link>
       </nav>
-      <h4>© 2023</h4>
+      <h4>Daniel Virak Copyright All Rights Reserved © Circa 2023</h4>
     </div>
   );
 }
